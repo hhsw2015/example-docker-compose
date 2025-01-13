@@ -5,6 +5,6 @@ services:
     privileged: true
     restart: always
     ports:
-      - "8000:35455"
+      - "35455:35455"
     network_mode: bridge
     command: -tv=true -aesKey=ywmi2tqy2mtlvhkrd1k1bh5e0nrj805d -userid=1922404190 -token=29b3a0a30f999660c1140e0ee247c11e747aa31878c89f2725274b688aa563417e29d38fc29f679516594a9f1cc3b5f1a96d8fd8a0861cd5d2f32eadf1f2ad5c28eb9b73c5a077
