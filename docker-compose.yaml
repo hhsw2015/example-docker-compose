@@ -1,4 +1,3 @@
-
 services:
   allinone:
     image: youshandefeiyang/allinone
@@ -8,4 +7,4 @@ services:
     ports:
       - "35455:35455"
     network_mode: bridge
-    command: -tv=true -aesKey=x5sz7zr1yimr1re3hyh5chfb60j04kef -userid=1922404190 -token=cb9d6fa0bd96445db9e9258721c4dcc499e356c7987e0fc57ef92fabb2c90ee42be688596b80fdf1a36e29ff46380f9f8873b0e78ab80a564bca052637f01a6aa66a2624ea9c03
+    command: -tv=true -aesKey=ywmi2tqy2mtlvhkrd1k1bh5e0nrj805d -userid=1922404190 -token=29b3a0a30f999660c1140e0ee247c11e747aa31878c89f2725274b688aa563417e29d38fc29f679516594a9f1cc3b5f1a96d8fd8a0861cd5d2f32eadf1f2ad5c28eb9b73c5a077
